@@ -40,7 +40,7 @@ The following versions of .NET Core are no longer supported. The downloads for t
 - 2.2
 - 2.0
 
-## How to install other versions
+## How to install dotnet
 
 [!INCLUDE [package-manager-switcher](./includes/package-manager-heading-hack-pkgname.md)]
 
